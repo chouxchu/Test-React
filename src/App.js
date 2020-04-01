@@ -26,11 +26,11 @@ class App extends React.Component {
   render() {
     return (
       <div>
-          Hello
+          Hello Gun
       </div>
     )
   }
 
-}
+}n
 
 export default App;
